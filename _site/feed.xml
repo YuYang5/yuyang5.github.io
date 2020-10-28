@@ -1,13 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-15T00:57:41+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">能工巧匠 之 IDEMPIERE实战</title><subtitle>## iDempiere. Community Powered Enterprise ## 致力于iDempiere在中国的发展</subtitle><entry><title type="html">开博第一篇</title><link href="http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="开博第一篇" /><published>2020-10-14T16:12:43+08:00</published><updated>2020-10-14T16:12:43+08:00</updated><id>http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.7">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-10-28T17:16:49+08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">能工巧匠 之 IDEMPIERE实战</title><subtitle>## iDempiere. Community Powered Enterprise ## 致力于iDempiere在中国的发展</subtitle><entry><title type="html">开博的理由</title><link href="http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll.html" rel="alternate" type="text/html" title="开博的理由" /><published>2020-10-14T16:12:43+08:00</published><updated>2020-10-14T16:12:43+08:00</updated><id>http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2020/10/14/welcome-to-jekyll.html">&lt;p&gt;从开源软件这一概念诞生以来，经过几十年间从未间断的蓬勃发展，开源软件已经深入到我们生活的方方面面，为整个世界的改变做出了不可替代的卓越贡献。无论是在操作系统、数据库、中间件，或者是手机、开源硬件、人工智能等领域都有着大量可直接或者间接应用于生产环境的杰出产品问世，在企业级的业务核心系统ERP/SCM/CRM领域也不例外，iDempiere作为最杰出的开源ERP/SCM/CRM产品之一，在国内外的各个行业都能看到其被活用的场景。&lt;/p&gt;
 
-&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+&lt;p&gt;作为我这样一名在ERP/SCM/CRM实施领域工作23年、并在最近的8年里一直使用iDempiere来为客户提供实施服务的从业人员来说，为客户实现需求并控制成本是很重要的要素，在这方面iDempiere和哪怕是全球最杰出的ERP产品、软件基础平台比较起来也有着得天独厚的优势，并且这些优势不仅仅是开源软件的免费带来的。
+例如企业开始研讨上马一套新业务系统或者替代旧业务系统时，往往会面临着和买西服类似的烦恼。高级西装店的西服可能存在着胸腰围合身、袖长偏短，袖长合适了腰围又不太合身等问题，但如果去定制一套高级西服的话，价格比较偏高的同时还要寻找合适的裁剪师傅。&lt;/p&gt;
 
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+&lt;p&gt;这时，选择iDempiere就是能够解决这个问题的一个很好的方案。iDempiere作为一个完整的ERP/SCM/CRM产品，本身已经拥有一整套可直接使用的标准系统功能，和企业需求合身的部分就可以直接拿来使用；同时iDempiere还拥有一套完善的支持快速实现业务系统功能的基础平台，可以高质量的实现面向各个企业特有的一些专属需求，也就是说和企业业务需求比较起来有不合身的地方就可以直接按照特定的要求进行调整、剪裁。
+虽然iDempiere有着这样的先进性，但由于ERP/SCM/CRM本身在软件开发、设计上就拥有着复杂的构成，涉及到的非IT开发的周边知识领域繁多，仅仅是IT行业从业人员或者仅仅是ERP/SCM/CRM顾问都在入门这件事情的本身上就需要花费大量的时间和精力。这也就直接或间接的导致了开源ERP/SCM/CRM一直都是一个偏小众的开源分类，特别是在odoo等开源产品在国内的高速发展，iDempiere的高门槛也让受众进一步的减少。&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;p&gt;作为iDempiere中国社区的一员，深知这个已经不是酒香不怕巷子深的时代，如何用一套成体系的资料来增加iDempiere爱好者是一个行之有效的方法，更何况由于比较深入的了解iDempiere更加知道iDempiere可以为生产力带来怎样超绝的提高。后续就基于公网公开的已知信息和原始的iDempiere构筑一套体系。&lt;/p&gt;
 
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry></feed>
+&lt;p&gt;其实iDempiere的知识和高速迭代、体系持续更新的基础软件相关的技术知识还不太一样，一旦掌握不太容易过时，学习的性价比还是比较高的。&lt;/p&gt;
+
+&lt;p&gt;同时还希望能够缓解iDempiere在中国发展的以下五个问题：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;问题1：版本多
+iDempiere和这个家族的产品起源于上个世纪的1999年，在20多年的软件发展中，各类分支层出不穷，到底如何选择也成了一般用户选型时的一大难题。&lt;/li&gt;
+  &lt;li&gt;问题2：文档杂
+iDempiere本身的复杂度较高，导致整理并汇总一套成体系的文档的难易度非常高，即便是把公开的所有文档收集到一起也会发现文档非常的杂乱，更不用说与之对应的中文文档更加少的可怜。&lt;/li&gt;
+  &lt;li&gt;问题3：入门难
+由于问题1和问题2的存在，在实际学习中我们会发现，在没有人帮助的前提下想要入门的话，学习的时间成本非常高。仅以安装为例，花费两个月的时间也不会让人很惊讶。&lt;/li&gt;
+  &lt;li&gt;问题4：缺实施
+在初步入门之后，通过真实的项目进行系统实施是最有效的学习手段。在中国能够实施iDempiere的团队也可以说凤毛麟角。&lt;/li&gt;
+  &lt;li&gt;问题5：运维差
+花费了大量的时间、精力掌握了iDempiere的知识之后，从可以稳定的做好系统运维的角度来看，依然会发现问题多多。实际上往往容易陷入系统不稳定、运维很辛苦、客户不满意、合同不续约这样的怪圈。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;希望这个博客可以从下面几个方面提供相应的支援。&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;iDempiere入门；&lt;/li&gt;
+  &lt;li&gt;使用iDempiere实施、开发；&lt;/li&gt;
+  &lt;li&gt;使用iDempiere运维、故障对应；&lt;/li&gt;
+  &lt;li&gt;研讨开源ERP系统实施方法论；&lt;/li&gt;
+  &lt;li&gt;使用iDempiere进行开源ERP系统的教学、科研；&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;你可以在GitHub找到相关文档、工具、源码等: &lt;a href=&quot;https://github.com/osssme&quot;&gt;GITHUB&lt;/a&gt;&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">从开源软件这一概念诞生以来，经过几十年间从未间断的蓬勃发展，开源软件已经深入到我们生活的方方面面，为整个世界的改变做出了不可替代的卓越贡献。无论是在操作系统、数据库、中间件，或者是手机、开源硬件、人工智能等领域都有着大量可直接或者间接应用于生产环境的杰出产品问世，在企业级的业务核心系统ERP/SCM/CRM领域也不例外，iDempiere作为最杰出的开源ERP/SCM/CRM产品之一，在国内外的各个行业都能看到其被活用的场景。</summary></entry></feed>
